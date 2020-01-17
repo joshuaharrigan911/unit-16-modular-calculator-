@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U16_modular_calculator", "U16_modular_calculator\U16_modular_calculator.csproj", "{B05CAB9E-F37D-4649-B976-43A52F498E4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05CAB9E-F37D-4649-B976-43A52F498E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05CAB9E-F37D-4649-B976-43A52F498E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05CAB9E-F37D-4649-B976-43A52F498E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05CAB9E-F37D-4649-B976-43A52F498E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9E2B528-4A19-4842-8C1B-252C7C20713A}
+	EndGlobalSection
+EndGlobal
